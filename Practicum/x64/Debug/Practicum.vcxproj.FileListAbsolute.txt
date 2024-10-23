@@ -1,0 +1,6 @@
+C:\Users\roman\source\repos\Practicum\Practicum\x64\Debug\Practicum.vcxproj.AssemblyReference.cache
+C:\Users\roman\source\repos\Practicum\Practicum\x64\Debug\Practicum.vcxproj.ResolveComReference.cache
+C:\Users\roman\source\repos\Practicum\Practicum\x64\Debug\Practicum.MainForm.resources
+C:\Users\roman\source\repos\Practicum\Practicum\x64\Debug\Practicum.MyForm.resources
+C:\Users\roman\source\repos\Practicum\Practicum\x64\Debug\Practicum.vcxproj.GenerateResource.cache
+C:\Users\roman\source\repos\Practicum\Practicum\x64\Debug\Practicum.vcxproj.Up2Date
